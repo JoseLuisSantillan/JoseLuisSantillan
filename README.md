@@ -3,7 +3,7 @@
 Bienvenido al lugar donde puedes explorar mis proyectos académicos y personales
 
 ## 👀 &nbsp;Sobre mi
-Soy estudiante de la Universidad San Francisco de Quito, y actualmente estudio ingeniería en Ciencia de la Computación. Además un minor en desarrollo web y apps
+Soy estudiante de la Universidad San Francisco de Quito, y actualmente estudio ingeniería en Ciencia de la Computación. Además, estoy realizando un minor en desarrollo web y apps
 
 
 ## 🛠 &nbsp;Mis conocimientos
