@@ -18,12 +18,11 @@ Bienvenido al lugar donde puedes explorar mis proyectos académicos y personales
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## 👇 Link a mi página web
+https://joseluissantillan.github.io
 <!--
-**JoseLuisSantillan/JoseLuisSantillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuisSantillan)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
