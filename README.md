@@ -23,7 +23,7 @@ Bienvenido al lugar donde puedes explorar mis proyectos académicos y personales
 https://joseluissantillan.github.io
 
 ## 🗨️ Lenguajes
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSELUISSANTILLAN&langs_count=8&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSELUISSANTILLAN&langs_count=9&theme=tokyonight)]()
 <!--
 
 
