@@ -25,7 +25,7 @@ https://joseluissantillan.github.io
 ## 🗨️ Lenguajes
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSELUISSANTILLAN&langs_count=10&theme=tokyonight)]()
 
-## 👁️ Visitantes
+## 👁️ Visitas
 ![Visitor Count](https://profile-counter.glitch.me/{JoseLuisSantillan}/count.svg)
 <!--
 
